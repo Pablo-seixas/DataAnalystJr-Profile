@@ -44,3 +44,4 @@ plt.tight_layout()
 
 # Exiba o gráfico
 plt.show()
+
